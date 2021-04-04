@@ -5,7 +5,7 @@ VAR model was created by following the tutorial by Selva Prabhakaran.https://www
 Decomposition achieved by following the tutorial by Christian Hubbs.<br/>
 Holt-Winters was created by following the tutorial by Christian Hubbs.https://www.datahubbs.com/.<br/>
 Please roll back to panda 0.25.1 in order to use the code.<br/>
-Neural-Network by Yuanbang Liang.
+Neural Network by Yuanbang Liang.
 
 
 
